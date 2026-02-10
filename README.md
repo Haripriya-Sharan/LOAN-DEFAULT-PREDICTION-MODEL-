@@ -1,4 +1,4 @@
-# CREDIT-RISK-PROBABILITY-OF-DEFAULT-MODEL
+# LOAN DEFAULT PREDICTION MODEL 
 ## Overview
 
 This project implements a machine learning–based Probability of Default (PD) model to classify borrowers into high-risk and low-risk categories using historical loan data. The objective is to support risk-aware lending decisions through model comparison, performance evaluation, and monitoring.
