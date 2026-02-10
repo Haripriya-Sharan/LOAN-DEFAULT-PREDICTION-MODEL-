@@ -34,24 +34,10 @@ High-risk (Default) class precision: Strong precision to minimize false approval
 
 Evaluation focus: Business-relevant classification metrics rather than accuracy alone
 
-## Model Monitoring Dashboard
-
-To simulate real-world deployment, a classification model monitoring dashboard was built to:
-
-Track key performance indicators (KPIs)
-
-Visualize the confusion matrix
-
-Compare predicted vs actual loan outcomes
-
-Support ongoing model performance evaluation
-
 ## Tools & Technologies
 
 Python (Pandas, NumPy, Scikit-learn)
 
 XGBoost
-
-Power BI / Visualization tools (for dashboarding)
 
 Jupyter Notebook
